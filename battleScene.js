@@ -43,7 +43,7 @@ function animateBattle(){
     battleAnimationId = window.requestAnimationFrame(animateBattle)
     battleBackground.draw()
 
-    console.log(battleAnimationId)
+    //console.log(battleAnimationId)
 
     fantasma.draw()
     kilam.draw()
